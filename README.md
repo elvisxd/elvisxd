@@ -1,13 +1,9 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://elvisxd.github.io/webside-curriculum/">Elvis</a> 👋</h1>
+<h1 align="center">Hellooo, I'm <a href="https://elvisxd.github.io/webside-curriculum/">Elvis</a> 👋</h1>
 </div>
 <img src="White Minimalist Profile LinkedIn Banner.png">
 
-
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-
-
-## Sobre mi
+## About me
 
 - ⭐ Sofware Developer ⭐ 
 - 📲 Mobile developer
@@ -22,8 +18,7 @@
 <td width="50%">
 <h3 align="center">Calot rental and sale of properties</h3>
 <div align="center">
-<a href="https://elvisxd.github.io/webside-curriculum/" target="_blank"><img src="![www calot com ar_ (1)](https://github.com/user-attachments/assets/7045afd7-e15f-49fe-aeb8-0882bc7b031e)
-"></a>
+<a href="www.calot.com.ar_ (1).png" target="_blank"><img src=""></a>
 
 <p>Full stack development. Developer in PHP (Laravel), database management (MySQL, SQLite), web designer (CSS, Bootstrap, Grid, Flexbox), desktop application designer (C#) and Java, back-end programmer in C# (Visual Studio).
 Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
@@ -35,8 +30,7 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
                <br>
 <h3 align="center">Weather App</h3>
 <div align="center">                                       
-<a href="https://elvisxd.github.io/weather-app/" target="_blank"><img src="![elvisxd github io_weather-app_](https://github.com/user-attachments/assets/afd7f5fe-47e8-4e64-8ad7-6d3d107dcd4f)
-" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://elvisxd.github.io/weather-app/" target="_blank"><img src="elvisxd.github.io_weather-app_.png" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://github.com/elvisxd/weather-app" target="_blank">
@@ -54,8 +48,7 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
 <td width="50%">
 <h3 align="center">QR Generator</h3>
 <div align="center">
-<a href="https://elvisxd.github.io/qr-generator/" target="_blank"><img src="![elvisxd github io_qr-generator_](https://github.com/user-attachments/assets/278abc74-4eb9-47db-a434-c533d1faf64e)
-" width="400" alt="Curso intermedio Android"></a>
+<a href="https://elvisxd.github.io/qr-generator/" target="_blank"><img src="elvisxd.github.io_qr-generator_.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/elvisxd/qr-generator" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
