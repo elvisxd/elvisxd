@@ -1,4 +1,7 @@
-                                                                     ## Hi there 👋
+                                                                     ## Hi there 👋 I'm Elvis
+
+                                                                     
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/7cd35345-ee25-44eb-b4df-a456902b3a17)
 
 <!--
 **elvisxd/elvisxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
