@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Calot rental and sale of properties</h3>
 <div align="center">
-<a href="www.calot.com.ar" target="_blank"><img src="calot.png"></a>
+<a href="www.calot.com.ar" target="_blank"><img src="./calot.png"></a>
 
 <p>Full stack development. Developer in PHP (Laravel), database management (MySQL, SQLite), web designer (CSS, Bootstrap, Grid, Flexbox), desktop application designer (C#) and Java, back-end programmer in C# (Visual Studio).
 Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
