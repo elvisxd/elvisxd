@@ -1,8 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://elvisxd.github.io/webside-curriculum/">Elvis</a> 👋</h1>
 </div>
-<img src="![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/7bdcc8a2-0513-4487-bc3b-7a6e268472b9)
-">
+<img src="White Minimalist Profile LinkedIn Banner.png">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
