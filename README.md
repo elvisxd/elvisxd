@@ -68,7 +68,7 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
 <td width="50%">
 <h3 align="center">QR Generator</h3>
 <div align="center">
-<a href="https://elvisxd.github.io/qr-generator/" target="_blank"><img src="elvisxd.github.io_qr-generator_.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://elvisxd.github.io/qr-generator/" target="_blank"><img src="qr-generator.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/elvisxd/qr-generator" target="_blank">
 
