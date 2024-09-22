@@ -81,7 +81,7 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
                <br>
 <h3 align="center">Weather App</h3>
 <div align="center">                                       
-<a href="https://elvisxd.github.io/weather-app/" target="_blank"><img src="elvisxd.github.io_weather-app_.png" width="400" alt=""></a>
+<a href="https://elvisxd.github.io/weather-app/" target="_blank"><img src="weatherApp.png" width="400" alt=""></a>
 <br>
 <p>
 <a href="https://github.com/elvisxd/weather-app" target="_blank">
