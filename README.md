@@ -50,10 +50,10 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
                <br>
 <h3 align="center">PortFolio</h3>
 <div align="center">                                       
-<a href="https://elvisxd.github.io/webside-curriculum/" target="_blank"><img src="elvisxd.github.io_webside-curriculum_.png" width="400" alt=""></a>
+<a href="https://github.com/elvisxd/my-porfolio-next" target="_blank"><img src="portfolio-2024.png"  alt=""></a>
 <br>
 <p>
-<a href="https://github.com/elvisxd/webside-curriculum?tab=readme-ov-file" target="_blank">
+<a href="https://my-porfolio-next.vercel.app/" target="_blank">
  
 </a>
 </p>
