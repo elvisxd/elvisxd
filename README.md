@@ -64,6 +64,23 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
 <br>
 
 <table>
+  <tr>
+    <td width="100%" >
+      <h3 align="center">Gemini Chat App</h3>
+<div align="center">
+<a href="https://gemini-chat-app-three.vercel.app/" target="_blank"><img src="gemini-chat-app.png" width="300" height="600" alt="gemini app"></a>
+<p>
+
+
+</a>
+</p>
+<p>GeminiChatApp is an interactive chat application built with Next.js and Tailwind CSS, leveraging artificial intelligence to provide a seamless and modern messaging experience. Features include smooth scrolling, animated responses, and integrated social media links, all presented in a responsive design.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<table>
 <tr>
 <td width="50%">
 <h3 align="center">QR Generator</h3>
@@ -76,7 +93,6 @@ Projects: Animalitos Plus bets (C#), various projects in HTML, PHP, and CSS.</p>
 </p>
 <p>A free platform for generating QR codes.This tool is built from scratch using Html, JavaScript and Css. It offers an easy-to-use interface for creating custom QR codes for various purposes, including URLs, contact information, and more.</p>
 </div>
-
 <td width="50%">
                <br>
 <h3 align="center">Weather App</h3>
