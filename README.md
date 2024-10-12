@@ -33,6 +33,36 @@
 
 
 ## Proyects 🤩
+
+<table>
+  <tr>
+    <td width="100%" >
+      <h3 align="center">FinancePro</h3>
+<div align="center">
+<a href="https://financepro-iota.vercel.app/" target="_blank"><img src="financepro-protected-page.png" width="auto" height="auto" alt="gemini app"></a>
+<p>
+
+
+</a>
+</p>
+## Features
+
+- **Income and Expense Management**: Record and categorize your financial transactions.
+- **Interactive Charts**: Visualize your financial data with clear and detailed charts.
+- **Social Connection**: Connect with us through Facebook, Github, LinkedIn, and email.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Framer Motion**: Library for animations in React.
+- **Lucide React**: Icon set for React.
+- **Tailwind CSS**: CSS framework for rapid and responsive design.
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <table>
 <tr>
 <td width="50%">
