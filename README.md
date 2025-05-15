@@ -37,6 +37,40 @@
 <table>
   <tr>
     <td width="100%" >
+      <h3 align="center">Mi Tienda Online</h3>
+      <div align="center">
+        <a href="https://my-ecommerce-app-elvisxds-projects.vercel.app/" target="_blank">
+         <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 15px;">
+  <img src="sneakers-test-05-15-2025_03_37_PM.png" width="32%" alt="ecommerce home">
+  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_39_PM.png" width="32%" alt="ecommerce products">
+  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_41_PM.png" width="32%" alt="ecommerce admin">
+</div>
+        </a>
+        <p>
+          Una tienda online completa desarrollada con Next.js 15 y Supabase. Incluye gestión de productos, 
+          carrito de compras, sistema de pagos, y panel de administración. Diseño responsive y optimizado 
+          para SEO.
+        </p>
+        <h4>Características principales:</h4>
+        <p>
+          • Catálogo de productos con filtros avanzados<br>
+          • Carrito de compras con persistencia<br>
+          • Panel de administración para gestión de productos<br>
+          • Integración con pasarelas de pago<br>
+          • Diseño responsive optimizado para móviles
+        </p>
+        <h4>Tecnologías:</h4>
+        <p>
+          Next.js 15, TypeScript, Tailwind CSS, Supabase, Vercel Blob
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="100%" >
       <h3 align="center">FinancePro</h3>
 <div align="center">
 <a href="https://financepro-iota.vercel.app/" target="_blank"><img src="financepro-protected-page.png" width="auto" height="auto" alt="gemini app"></a>
