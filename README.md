@@ -179,13 +179,6 @@ Property rental and sales portal with listing management, advanced search filter
 
 **B.Sc. Systems Engineering** — Universidad de Margarita (Unimar), Venezuela
 
-## GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvisxd&show_icons=true&hide_border=true&bg_color=0E1116&title_color=E8A33D&icon_color=E8A33D&text_color=B3BBC8" alt="GitHub stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisxd&layout=compact&hide_border=true&bg_color=0E1116&title_color=E8A33D&text_color=B3BBC8" alt="Top languages" width="48%">
-</div>
-
 ---
 
 <div align="center">
