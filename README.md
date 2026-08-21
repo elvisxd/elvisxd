@@ -3,14 +3,14 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--porfolio--next-E8A33D?style=flat-square&labelColor=0E1116)](https://my-porfolio-next-v1.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elvis--pino-E8A33D?style=flat-square&labelColor=0E1116)](https://www.linkedin.com/in/elvis-pino-b358b2127/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elvis--pino-E8A33D?style=flat-square&labelColor=0E1116)](https://www.linkedin.com/in/elvis-pino-dev/)
 [![Email](https://img.shields.io/badge/Email-elvisreyxd%40gmail.com-E8A33D?style=flat-square&labelColor=0E1116)](mailto:elvisreyxd@gmail.com)
 
 </div>
 
 ## About
 
-Full-stack engineer with **10 years of experience**, founder of [Nesty C.A.](https://www.linkedin.com/in/elvis-pino-b358b2127/) — a technical consultancy focused on automation, web/mobile development and API integration.
+Full-stack engineer with **10 years of experience**, founder of [Nesty C.A.](https://www.linkedin.com/in/elvis-pino-dev/) — a technical consultancy focused on automation, web/mobile development and API integration.
 
 I build systems where **AI is a production component, not a demo**: LLM integration over REST APIs, prompts with empirically validated constraints, and statistical predictive models with out-of-sample validation.
 
@@ -185,6 +185,6 @@ Property rental and sales portal with listing management, advanced search filter
 
 **Open to senior full-stack and applied AI roles** — Orlando, FL, relocation or remote.
 
-[elvisreyxd@gmail.com](mailto:elvisreyxd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elvis-pino-b358b2127/) · [Portfolio](https://my-porfolio-next-v1.vercel.app/)
+[elvisreyxd@gmail.com](mailto:elvisreyxd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elvis-pino-dev/) · [Portfolio](https://my-porfolio-next-v1.vercel.app/)
 
 </div>
