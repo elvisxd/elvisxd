@@ -5,7 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--porfolio--next-E8A33D?style=flat-square&labelColor=0E1116)](https://my-porfolio-next-v1.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elvis--pino-E8A33D?style=flat-square&labelColor=0E1116)](https://www.linkedin.com/in/elvis-pino-b358b2127/)
 [![Email](https://img.shields.io/badge/Email-elvisreyxd%40gmail.com-E8A33D?style=flat-square&labelColor=0E1116)](mailto:elvisreyxd@gmail.com)
-[![App Store](https://img.shields.io/badge/App%20Store-GO190%20Store-E8A33D?style=flat-square&labelColor=0E1116)](https://apps.apple.com/kz/app/go190-store/id6748661767)
 
 </div>
 
