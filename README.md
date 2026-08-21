@@ -1,294 +1,198 @@
+<img src="banner.png" alt="Elvis R. Pino — Senior Full-Stack Engineer, Applied AI" width="100%">
+
 <div align="center">
 
-# Hello, I'm <a href="https://elvisxd.github.io/webside-curriculum/">Elvis</a> 👋
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github)](https://my-porfolio-next.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elvis-pino-b358b2127/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-my--porfolio--next-E8A33D?style=flat-square&labelColor=0E1116)](https://my-porfolio-next-v1.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elvis--pino-E8A33D?style=flat-square&labelColor=0E1116)](https://www.linkedin.com/in/elvis-pino-b358b2127/)
+[![Email](https://img.shields.io/badge/Email-elvisreyxd%40gmail.com-E8A33D?style=flat-square&labelColor=0E1116)](mailto:elvisreyxd@gmail.com)
+[![App Store](https://img.shields.io/badge/App%20Store-GO190%20Store-E8A33D?style=flat-square&labelColor=0E1116)](https://apps.apple.com/kz/app/go190-store/id6748661767)
 
 </div>
 
-<img src="White Minimalist Profile LinkedIn Banner.png" alt="Elvis Banner" width="100%">
+## About
 
-## 🚀 About Me
+Full-stack engineer with **10 years of experience**, founder of [Nesty C.A.](https://www.linkedin.com/in/elvis-pino-b358b2127/) — a technical consultancy focused on automation, web/mobile development and API integration.
 
-I'm a passionate **Full-Stack Software Developer** with a love for creating innovative digital experiences. I specialize in building modern web and mobile applications that solve real-world problems.
+I build systems where **AI is a production component, not a demo**: LLM integration over REST APIs, prompts with empirically validated constraints, and statistical predictive models with out-of-sample validation.
 
-- ⭐ **Software Developer** with expertise in modern technologies
-- 📱 **Mobile Developer** creating cross-platform applications
-- 🎨 **Web Designer** with an eye for clean, responsive design
-- 📚 **Technical Writer** passionate about clear documentation
-- 💡 **Problem Solver** who loves tackling complex challenges
-- 🌱 **Continuous Learner** always exploring new technologies
+My design principle: **the model explains, deterministic code decides.**
 
-## 🛠️ Technologies & Tools
+```
+Focus       Applied AI · Full-stack architecture · Process automation
+Currently   Building an algorithmic trading platform and a sports
+            prediction system, both with LLM and predictive layers
+Location    Orlando, Florida · Open to relocation & remote
+```
 
-### Frontend Development
+## Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-### Mobile Development
+**Frontend**
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+**Backend**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### Backend Development
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+**AI & Automation**
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath_RPA-FA4616?style=flat-square&logo=uipath&logoColor=white)
 
-### Database & Tools
+**Cloud & Tooling**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Selected work
 
-### DevOps & Cloud
+### Algorithmic Trading Platform — Applied AI
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+Independently built and operated research and execution system. My most complete work in applied AI, data engineering and real-time systems. *(Private repository — happy to walk through the architecture.)*
 
-## 💼 Featured Projects
+| | |
+|---|---|
+| **~283k** | lines of TypeScript across 380 files |
+| **5** | independent signal engines, ~46 symbols in parallel |
+| **+1.29%** | model edge, validated out-of-sample |
+| **59.4%** | directional accuracy against a 50.1% base rate |
 
-### 📱 GO190 Store - Complete Mobile Commerce Platform
+- **Production LLM integration** — custom Google Gemini client over REST with timeout control, temperature tuning and token budgeting. Five specialized prompts across three services, designed with **graceful degradation**: when the model fails, the product keeps operating without the AI layer.
+- **Data-driven prompt engineering** — wrote backtest scripts measuring whether *each criterion sent in the prompt* carries real predictive information, then removed the ones that did not. After measuring ~25 technical signals, established the core architecture: the LLM does not predict, it explains numbers already computed in code.
+- **Custom predictive model** — weighted voting ensemble over 5 features with a net consensus threshold and a 72-hour horizon. Validated with permutation testing, Bonferroni correction and out-of-sample splits.
+- **Quantitative rigor** — reverted my own best-performing signal (+1.76% edge) after auditing it against a 9,478-sample bull regime where it produced negative edge.
+- **AI observability** — the system persists every model reading and verifies its accuracy against real price data every 10 minutes.
 
-**🔗 [iOS App Store](https://apps.apple.com/kz/app/go190-store/id6748661767)**
-
-<div align="center">
-  <img src="foto-app-ios.png" width="300" alt="GO190 Store iOS App">
-</div>
-
-**Description:**
-Full-stack mobile commerce application built with React Native, featuring a powerful NestJS backend and Next.js admin dashboard. A complete ecosystem for mobile shopping with real-world deployment on the App Store.
-
-**Key Features:**
-
-- Native iOS application published on App Store
-- Real-time product browsing and purchasing
-- Secure payment integration
-- User authentication and profiles
-- Push notifications for orders and promotions
-- Admin dashboard for inventory and order management
-- Real-time analytics and reporting
-
-**Tech Stack:** React Native, NestJS, Next.js, TypeScript, Node.js
-
-**Platform:** Available on iOS App Store
+`Next.js 15` `React 19` `TypeScript` `PostgreSQL (Neon)` `Redis (Upstash)` `Railway` `Google Gemini API` `Telegram Bot API`
 
 ---
 
-### 🛒 E-Commerce Platform - "Mi Tienda Online"
+### GO190 Store — Mobile commerce, published on the App Store
 
-**🔗 [Live Demo](https://my-ecommerce-app-elvisxds-projects.vercel.app/)**
+<a href="https://apps.apple.com/kz/app/go190-store/id6748661767"><img src="foto-app-ios.png" width="260" align="right" alt="GO190 Store"></a>
 
-<div align="center">
-  <img src="sneakers-test-05-15-2025_03_37_PM.png" width="30%" alt="ecommerce home">
-  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_39_PM.png" width="30%" alt="ecommerce products">  
-  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_41_PM.png" width="30%" alt="ecommerce admin">
-</div>
+Full-stack mobile commerce application built with React Native and Expo, backed by a NestJS API and a Next.js admin dashboard. Shipped to the Apple App Store.
 
-**Description:**
-A complete e-commerce platform built with Next.js 15 and Supabase. Features product management, shopping cart, payment system, and admin panel. Responsive design optimized for SEO.
+- Native iOS application, live on the App Store
+- Google Sign-In authentication via Firebase
+- Real-time data synchronization with Supabase
+- Product browsing, cart and order flow
+- Admin dashboard for inventory and orders
 
-**Key Features:**
+`React Native` `Expo` `NestJS` `TypeScript` `Firebase` `Supabase`
 
-- Advanced product catalog with filtering
-- Persistent shopping cart functionality
-- Admin dashboard for product management
-- Payment gateway integration
-- Mobile-optimized responsive design
+**[→ View on the App Store](https://apps.apple.com/kz/app/go190-store/id6748661767)**
 
-**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Supabase, Vercel Blob
+<br clear="right">
 
 ---
 
-### 💰 FinancePro - Personal Finance Management
-
-**🔗 [Live Demo](https://financepro-iota.vercel.app/)**
+### Mi Tienda Online — E-commerce platform
 
 <div align="center">
-  <img src="financepro-protected-page.png" width="600" alt="FinancePro App">
+  <img src="sneakers-test-05-15-2025_03_37_PM.png" width="31%" alt="Storefront">
+  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_39_PM.png" width="31%" alt="Product catalog">
+  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_41_PM.png" width="31%" alt="Admin dashboard">
 </div>
 
-**Description:**
-A comprehensive personal finance management application that helps users track income, expenses, and visualize their financial data through interactive charts and analytics.
+Complete e-commerce platform with product catalog and filtering, persistent cart, checkout, order tracking and an admin panel. Image optimization through Vercel Blob, responsive and SEO-oriented.
 
-**Key Features:**
+`Next.js 15` `TypeScript` `Tailwind CSS` `Supabase` `Vercel Blob`
 
-- Income and expense tracking with categorization
-- Interactive charts and financial visualizations
-- Social media integration (Facebook, GitHub, LinkedIn)
-- Real-time financial insights and analytics
-- Secure user authentication
-
-**Tech Stack:** React, Framer Motion, Lucide React, Tailwind CSS
+**[→ Live demo](https://my-ecommerce-app-delta.vercel.app/)**
 
 ---
 
-### 🏠 Calot - Real Estate Platform
+### FinancePro — Personal finance management
 
-**🔗 [Visit Website](https://www.calot.com.ar)**
+<img src="financepro-protected-page.png" width="420" align="right" alt="FinancePro">
 
-<div align="center">
-  <img src="www.calot.com.ar_.png" alt="Calot Real Estate Platform" width="400">
-</div>
+Financial management platform for tracking income, expenses and investments, with interactive charts and reporting. Categorized transactions, real-time insights and secure authentication.
 
-**Description:**
-Full-stack real estate platform for property rental and sales. Comprehensive solution with advanced property management features and responsive design.
+`Next.js` `React` `PostgreSQL` `Tailwind CSS` `Vercel`
 
-**Key Features:**
+**[→ Live demo](https://financepro-iota.vercel.app/)**
 
-- Property listing and management system
-- Advanced search and filtering
-- User authentication and profiles
-- Responsive design for all devices
-- Admin dashboard for property management
-
-**Tech Stack:** PHP (Laravel), MySQL, SQLite, CSS, Bootstrap, C#, Java
+<br clear="right">
 
 ---
 
-### 💼 Personal Portfolio
+### Calot — Real estate platform
 
-**🔗 [Live Demo](https://my-porfolio-next.vercel.app/) | [GitHub](https://github.com/elvisxd/my-porfolio-next)**
+<img src="www.calot.com.ar_.png" width="420" align="right" alt="Calot">
 
-<div align="center">
-  <img src="portfolio-2024.png" alt="Personal Portfolio" width="400">
-</div>
+Property rental and sales portal with listing management, advanced search filters and an admin dashboard. In production since 2019.
 
-**Description:**
-Modern and responsive personal portfolio showcasing my projects, skills, and professional experience. Built with modern web technologies and optimized for performance.
+`PHP (Laravel)` `MySQL` `Bootstrap` `CSS`
 
-**Key Features:**
+**[→ Visit calot.com.ar](https://www.calot.com.ar)**
 
-- Responsive design across all devices
-- Project showcase with detailed descriptions
-- Skills and technology display
-- Contact form integration
-- SEO optimized
-
-**Tech Stack:** Next.js, React, Tailwind CSS, TypeScript
+<br clear="right">
 
 ---
 
-### 🤖 Gemini Chat App - AI-Powered Chat Interface
+### Smaller projects
 
-**🔗 [Live Demo](https://gemini-chat-app-three.vercel.app/)**
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Personal Portfolio** | Responsive portfolio with i18n, dark mode and project showcase | `Next.js` `TypeScript` `Tailwind` | [demo](https://my-porfolio-next-v1.vercel.app/) · [code](https://github.com/elvisxd/my-porfolio-next) |
+| **NestJS REST API** | Scalable API with CRUD, auth, validation and Swagger docs | `NestJS` `PostgreSQL` `Railway` | [demo](https://restapi-production-ac90.up.railway.app/) |
+| **Chat UI** | Chat interface with rooms, authentication and theming | `Next.js` `React` `Tailwind` | [demo](https://gemini-chat-app-three.vercel.app/) |
+| **QR Generator** | Custom QR code generator built from scratch | `HTML` `CSS` `JavaScript` | [demo](https://qr-generator-pp31.vercel.app/) · [code](https://github.com/elvisxd/qr-generator) |
+| **Weather App** | Real-time weather with dynamic condition-based backgrounds | `React` `Tailwind` `Weather API` | [demo](https://elvisxd.github.io/weather-app/) · [code](https://github.com/elvisxd/weather-app) |
 
-<div align="center">
-  <img src="gemini-chat-app.png" width="300" alt="Gemini Chat App">
-</div>
+## Certifications
 
-**Description:**
-Interactive AI chat application built with Next.js and Tailwind CSS, leveraging artificial intelligence to provide seamless messaging experience with modern animations and responsive design.
+`Vibe Coding: Responsible AI-Assisted Development` — DevTalles, 2026
+`.NET Backend: .NET Core, SQL Server & JWT` — DevTalles, 2025
+`NestJS: Backend with PostgreSQL & WebSockets` — DevTalles, 2025
+`React Native Expo: iOS & Android Apps` — DevTalles, 2025
+`Meta Advanced React` · `React Basics` · `Back-End Development` — Coursera, 2022
+`UiPath RPA Developer` · `JS Algorithms & Data Structures` — freeCodeCamp
 
-**Key Features:**
+**B.Sc. Systems Engineering** — Universidad de Margarita (Unimar), Venezuela
 
-- AI-powered conversation interface
-- Smooth scrolling and animated responses
-- Social media integration
-- Real-time messaging
-- Modern responsive design
-
-**Tech Stack:** Next.js, Tailwind CSS, AI Integration
-
----
-
-### 📱 QR Generator Tool
-
-**🔗 [Live Demo](https://qr-generator-pp31.vercel.app/) | [GitHub](https://github.com/elvisxd/qr-generator)**
+## GitHub
 
 <div align="center">
-  <img src="qr-generator.png" width="400" alt="QR Generator Tool">
-</div>
-
-**Description:**
-Free platform for generating custom QR codes. Built from scratch with vanilla web technologies, offering an intuitive interface for creating QR codes for various purposes.
-
-**Key Features:**
-
-- Generate QR codes for URLs, text, contact info
-- Custom styling options
-- Download functionality
-- Mobile-responsive design
-- No registration required
-
-**Tech Stack:** HTML5, JavaScript, CSS3
-
-### 🌤️ Weather App - Real-time Weather Updates
-
-**🔗 [Live Demo](https://elvisxd.github.io/weather-app/) | [GitHub](https://github.com/elvisxd/weather-app)**
-
-<div align="center">
-  <img src="weatherApp.png" width="400" alt="Weather Application">
-</div>
-
-**Description:**
-Comprehensive weather application providing real-time weather updates and forecasts. Features dynamic backgrounds that change based on current weather conditions.
-
-**Key Features:**
-
-- Real-time weather data
-- City search functionality
-- Detailed weather conditions (temperature, humidity, wind speed)
-- Dynamic weather-based backgrounds
-- Responsive design for all devices
-
-**Tech Stack:** React, TailwindCSS, Weather API
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvisxd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Elvis's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisxd&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvisxd&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="60%"/>
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=globe&logoColor=white)](https://my-porfolio-next.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-pino-b358b2127/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvisxd/elvisxd)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvisreyxd@gmail.com.com)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=elvisxd&show_icons=true&hide_border=true&bg_color=0E1116&title_color=E8A33D&icon_color=E8A33D&text_color=B3BBC8" alt="GitHub stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisxd&layout=compact&hide_border=true&bg_color=0E1116&title_color=E8A33D&text_color=B3BBC8" alt="Top languages" width="48%">
 </div>
 
 ---
 
 <div align="center">
 
-### 💫 "Code is poetry written in logic"
+**Open to senior full-stack and applied AI roles** — Orlando, FL, relocation or remote.
 
-_Passionate about creating innovative solutions that make a difference_ ✨
-
-**⭐ Star my repositories if you find them useful!**
+[elvisreyxd@gmail.com](mailto:elvisreyxd@gmail.com) · [LinkedIn](https://www.linkedin.com/in/elvis-pino-b358b2127/) · [Portfolio](https://my-porfolio-next-v1.vercel.app/)
 
 </div>
