@@ -18,8 +18,8 @@ My design principle: **the model explains, deterministic code decides.**
 
 ```
 Focus       Applied AI · Full-stack architecture · Process automation
-Currently   Building an algorithmic trading platform and a sports
-            prediction system, both with LLM and predictive layers
+Currently   A spot trading alert system with an LLM layer, and a
+            sports research system whose product is its statistics
 Location    Orlando, Florida · Open to relocation & remote
 ```
 
@@ -73,24 +73,59 @@ Location    Orlando, Florida · Open to relocation & remote
 
 ## Selected work
 
-### Algorithmic Trading Platform — Applied AI
+### Spot Trading — Accumulation Zone Alerts
 
-Independently built and operated research and execution system. My most complete work in applied AI, data engineering and real-time systems. *(Private repository — happy to walk through the architecture.)*
+<img src="spot-market.png" width="100%" alt="Market by zones panel">
+
+Research and execution system I build and operate on my own. *(Private repository — happy to walk through the architecture.)*
 
 | | |
 |---|---|
-| **~283k** | lines of TypeScript across 380 files |
-| **5** | independent signal engines, ~46 symbols in parallel |
-| **+1.29%** | model edge, validated out-of-sample |
-| **59.4%** | directional accuracy against a 50.1% base rate |
+| **~283k** | lines of TypeScript across 380 files, most of it now retired |
+| **11** | rounds of measurement before retiring the futures engine |
+| **34** | strategies built, measured and discarded |
+| **0** | signals shipped without surviving out-of-sample |
 
-- **Production LLM integration** — custom Google Gemini client over REST with timeout control, temperature tuning and token budgeting. Five specialized prompts across three services, designed with **graceful degradation**: when the model fails, the product keeps operating without the AI layer.
-- **Data-driven prompt engineering** — wrote backtest scripts measuring whether *each criterion sent in the prompt* carries real predictive information, then removed the ones that did not. After measuring ~25 technical signals, established the core architecture: the LLM does not predict, it explains numbers already computed in code.
-- **Custom predictive model** — weighted voting ensemble over 5 features with a net consensus threshold and a 72-hour horizon. Validated with permutation testing, Bonferroni correction and out-of-sample splits.
-- **Quantitative rigor** — reverted my own best-performing signal (+1.76% edge) after auditing it against a 9,478-sample bull regime where it produced negative edge.
-- **AI observability** — the system persists every model reading and verifies its accuracy against real price data every 10 minutes.
+It started as a futures engine: 34 strategies, a multi-factor signal core, ~136 backtest scripts, execution against a live exchange. I measured it with permutation tests against reshuffled whole periods, thirds validation and frozen out-of-sample splits — and concluded that **none of the modules beat their benchmark under real execution**. I retired the entire system rather than keep trading it. The engineering that mattered was the measurement, not the strategies.
 
-`Next.js 15` `React 19` `TypeScript` `PostgreSQL (Neon)` `Redis (Upstash)` `Railway` `Google Gemini API` `Telegram Bot API`
+- **Retiring my own work on the evidence** — I had already reverted my best-performing signal after auditing it against a 9,478-sample bull regime where its edge went negative. The full retirement was the same discipline applied to everything else.
+- **Production LLM integration** — custom Google Gemini client over REST with timeout control, temperature tuning and token budgeting, designed with **graceful degradation**: when the model fails, the product keeps operating without the AI layer.
+- **Data-driven prompt engineering** — backtest scripts measuring whether *each criterion sent in the prompt* carries real predictive information, then removing the ones that did not. After measuring ~25 technical signals, the core architecture became: the LLM does not predict, it explains numbers already computed in code.
+- **What ships today** — a multi-year range map that alerts over Telegram when an asset moves between zones of its own range, plus a market panel to inspect it. The alerts state explicitly that they **inform rather than recommend**, because the buy-cheap and scaled-sell criteria were measured too and did not beat their benchmarks either. That finding is kept in the code so nobody retries it thinking it is new.
+- **One shared function** — what gets alerted and what gets drawn come from the same code, so they cannot drift apart.
+
+`TypeScript` `React 19` `Vite` `Express` `Redis` `Docker` `Railway` `Google Gemini API` `Telegram Bot API`
+
+---
+
+### Sports Betting Research System
+
+<img src="sports-betting.png" width="100%" alt="Underdog research panel">
+
+Measurement system for player prop markets across **eight sports** — CS2, MLB, WNBA, NFL, college football, soccer, tennis and League of Legends. *(Private repository.)*
+
+It captures the sportsbook board automatically, cross-references every line against its own historical database built from ESPN, bo3.gg and Riot APIs, then resolves and scores each pick.
+
+- **The statistics are the product** — ROI measured by bootstrapping whole matches rather than individual picks; permutation controls that reshuffle sides while holding the Higher/Lower ratio fixed; thirds and halves validation; Bonferroni correction across every market examined.
+- **Hypotheses are frozen with their kill criteria written down *before* new data arrives** — four have been frozen so far and **all four were discarded**, including one that had passed five controls and an out-of-sample test at p=0.0073. Surviving a battery of controls on the sample that chose the hypothesis is not evidence.
+- **It emits zero picks by design** — the only market with evidence is frozen pending confirmation, so the front page shows nothing to play. The restraint is the feature: a system that always has a pick is a system that is not measuring.
+- **Failures are documented, not deleted** — every discarded axis carries why it died, so the next person does not retry it believing it is new.
+
+`TypeScript` `React 19` `Vite` `Express` `Redis` `Docker` `Railway`
+
+---
+
+### Amazon Affiliate → Pinterest Pipeline
+
+<img src="amazon-pinterest.png" width="100%" alt="Affiliate to Pinterest tool">
+
+Content tool that turns an Amazon affiliate link into a publish-ready Pinterest pin: title, description, board, tags and an image prompt, mapped one to one onto Pinterest's real pin creation form. *(Private repository.)*
+
+- **It deliberately does not auto-publish** — Pinterest's API requires an approved OAuth app, and until that exists the bottleneck is writing the copy, not pasting it. The tool solves the part that actually costs time, and the schema already stores everything that API would ask for, so wiring it later needs no migration.
+- **Research notes record what does not work** — Pinterest's internal endpoints return 403 and its grid is painted by JavaScript, so the approach that survives is a real browser session.
+- **A measured finding shaped the product** — the winning image pattern is specific to each niche, so a conclusion from one category cannot be transferred to another.
+
+`TypeScript` `React 19` `Vite` `Express` `PostgreSQL` `Railway`
 
 ---
 
