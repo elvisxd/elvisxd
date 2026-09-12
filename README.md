@@ -18,7 +18,8 @@ My design principle: **the model explains, deterministic code decides.**
 
 ```
 Focus       Applied AI · Full-stack architecture · Process automation
-Currently   A spot trading alert system with an LLM layer, and a
+Currently   A self-hosted AI agent with RAG, tools and a code sandbox;
+            a spot trading alert system with an LLM layer; and a
             sports research system whose product is its statistics
 Location    Orlando, Florida · Open to relocation & remote
 ```
@@ -48,6 +49,7 @@ Location    Orlando, Florida · Open to relocation & remote
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -58,6 +60,10 @@ Location    Orlando, Florida · Open to relocation & remote
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **AI & Automation**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector_RAG-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath_RPA-FA4616?style=flat-square&logo=uipath&logoColor=white)
@@ -72,6 +78,33 @@ Location    Orlando, Florida · Open to relocation & remote
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
 ## Selected work
+
+### Byte — Self-Hosted AI Agent
+
+<img src="byte-cli.png" width="100%" alt="Byte CLI running a sandboxed code execution and a web search">
+
+An AI agent I run on my own hardware: an open-source model that writes and executes code, searches the web and answers over my own documents, with **no paid API in the loop**. *(Private repository — happy to walk through the architecture.)*
+
+| | |
+|---|---|
+| **240** | tests, plus an eval suite guarding against agent regressions |
+| **3** | tools the agent can reach: documents, web, sandboxed code |
+| **0** | paid API calls — the model runs locally through Ollama |
+| **1** | run per conversation, enforced, so runs cannot corrupt shared state |
+
+The agent is a **LangGraph** state graph (`retrieve_context → agent → tools → finalize`) checkpointed in Postgres, so a conversation survives a restart and a paused run resumes from its checkpoint rather than starting over.
+
+- **It stops when it should** — retrieved documents and web results enter the prompt tagged as untrusted, and if any third-party content touched the conversation and the agent then wants to execute code, the run **halts for human approval** even when nobody asked. That combination is exactly how an indirect prompt injection reaches execution. The check spans the whole conversation, not the single run, because scoping it to one run means splitting the attack across two messages evades it.
+- **Code runs in a WASM sandbox** — Pyodide with a fresh interpreter per execution. Each isolation layer was verified against an unhardened Pyodide where the escape actually worked, so the hardening is tested against a vector that was real.
+- **Hybrid retrieval on pgvector** — HNSW vector similarity combined with lexical `tsvector` matching, and the chunks the agent used are stored with the answer, so every claim traces back to a document and a chunk.
+- **Standards, not bespoke protocols** — AG-UI events over SSE with resumable `Last-Event-ID`, plus an **OpenAI-compatible API** (`/v1/chat/completions`) so Open WebUI, Continue.dev or any OpenAI SDK can use it as a backend without writing code. Requests through `/v1` get the full agent with its tools, not just the model.
+- **Evals because a demo is not a system** — an eval suite catches agent regressions, and the model whitelist means a client-supplied model name never reaches Ollama.
+
+Roadmap: more MCP tool servers, a designed web client, and a deployment with the cost measured rather than assumed.
+
+`Python` `FastAPI` `LangGraph` `Ollama` `PostgreSQL + pgvector` `Pyodide/WASM` `MCP` `SSE / AG-UI` `Docker`
+
+---
 
 ### Spot Trading — Accumulation Zone Alerts
 
@@ -205,6 +238,8 @@ Property rental and sales portal with listing management, advanced search filter
 
 ## Certifications
 
+`Python TOTAL with AI: Zero to Full Programmer` — Udemy, 2026 (36.5 h)
+`Claude Academy: Claude 101` — Anthropic, 2026
 `Vibe Coding: Responsible AI-Assisted Development` — DevTalles, 2026
 `.NET Backend: .NET Core, SQL Server & JWT` — DevTalles, 2025
 `NestJS: Backend with PostgreSQL & WebSockets` — DevTalles, 2025
