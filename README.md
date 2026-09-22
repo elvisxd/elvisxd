@@ -1,10 +1,15 @@
-<img src="banner.png" alt="Elvis R. Pino — Senior Full-Stack Engineer, Applied AI" width="100%">
+<img src="banner.svg" alt="Elvis R. Pino — Senior Full-Stack Engineer, Applied AI" width="100%">
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-my--porfolio--next-E8A33D?style=flat-square&labelColor=0E1116)](https://my-porfolio-next-v1.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elvis--pino-E8A33D?style=flat-square&labelColor=0E1116)](https://www.linkedin.com/in/elvis-pino-dev/)
 [![Email](https://img.shields.io/badge/Email-elvisreyxd%40gmail.com-E8A33D?style=flat-square&labelColor=0E1116)](mailto:elvisreyxd@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=E8A33D&background=00000000&center=true&vCenter=true&width=700&height=44&lines=Senior+Full-Stack+Engineer+%C2%B7+Applied+AI;10+years+shipping+systems+that+run+in+production;The+model+explains%2C+deterministic+code+decides;Building+a+self-hosted+AI+agent+with+RAG%2C+tools+and+a+code+sandbox">
+  <img alt="Senior Full-Stack Engineer · Applied AI — the model explains, deterministic code decides" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=B5802E&background=00000000&center=true&vCenter=true&width=700&height=44&lines=Senior+Full-Stack+Engineer+%C2%B7+Applied+AI;10+years+shipping+systems+that+run+in+production;The+model+explains%2C+deterministic+code+decides;Building+a+self-hosted+AI+agent+with+RAG%2C+tools+and+a+code+sandbox">
+</picture>
 
 </div>
 
@@ -76,6 +81,13 @@ Location    Orlando, Florida · Open to relocation & remote
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvisxd/elvisxd/output/snake-dark.svg">
+  <img alt="Contribution graph, animated as a snake eating the cells" src="https://raw.githubusercontent.com/elvisxd/elvisxd/output/snake-light.svg" width="100%">
+</picture>
 
 ## Selected work
 
