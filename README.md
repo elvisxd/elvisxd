@@ -120,7 +120,7 @@ Roadmap: more MCP tool servers, a designed web client, and a deployment with the
 
 ### Spot Trading — Accumulation Zone Alerts
 
-<img src="spot-market.png" width="100%" alt="Market by zones panel">
+<img src="spot-market.svg" width="100%" alt="Market by zones: an asset card whose price falls into the accumulation zone, and the Telegram alert the watcher sends">
 
 Research and execution system I build and operate on my own. *(Private repository — happy to walk through the architecture.)*
 
