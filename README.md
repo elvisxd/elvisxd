@@ -145,7 +145,7 @@ It started as a futures engine: 34 strategies, a multi-factor signal core, ~136 
 
 ### Sports Betting Research System
 
-<img src="sports-betting.png" width="100%" alt="Underdog research panel">
+<img src="sports-betting.svg" width="100%" alt="UNDERDOG research panel: nothing to play today, one frozen model with its track record, and four hypotheses, all discarded">
 
 Measurement system for player prop markets across **eight sports** — CS2, MLB, WNBA, NFL, college football, soccer, tennis and League of Legends. *(Private repository.)*
 
@@ -162,7 +162,7 @@ It captures the sportsbook board automatically, cross-references every line agai
 
 ### Amazon Affiliate → Pinterest Pipeline
 
-<img src="amazon-pinterest.png" width="100%" alt="Affiliate to Pinterest tool">
+<img src="amazon-pinterest.svg" width="100%" alt="Amazon to Pinterest tool: an affiliate link is pasted and the pin is drafted field by field">
 
 Content tool that turns an Amazon affiliate link into a publish-ready Pinterest pin: title, description, board, tags and an image prompt, mapped one to one onto Pinterest's real pin creation form. *(Private repository.)*
 
@@ -176,7 +176,7 @@ Content tool that turns an Amazon affiliate link into a publish-ready Pinterest 
 
 ### GO190 Store — Mobile commerce, published on the App Store
 
-<a href="https://apps.apple.com/kz/app/go190-store/id6748661767"><img src="foto-app-ios.png" width="260" align="right" alt="GO190 Store"></a>
+<a href="https://apps.apple.com/kz/app/go190-store/id6748661767"><img src="go190.svg" width="100%" alt="GO190 Store on iOS: home, my orders and a product page"></a>
 
 Full-stack mobile commerce application built with React Native and Expo, backed by a NestJS API and a Next.js admin dashboard. Shipped to the Apple App Store.
 
@@ -190,17 +190,11 @@ Full-stack mobile commerce application built with React Native and Expo, backed 
 
 **[→ View on the App Store](https://apps.apple.com/kz/app/go190-store/id6748661767)**
 
-<br clear="right">
-
 ---
 
 ### Mi Tienda Online — E-commerce platform
 
-<div align="center">
-  <img src="sneakers-test-05-15-2025_03_37_PM.png" width="31%" alt="Storefront">
-  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_39_PM.png" width="31%" alt="Product catalog">
-  <img src="Mi-Tienda-Online-Ecommerce-moderno-con-Next-js-05-15-2025_03_41_PM.png" width="31%" alt="Admin dashboard">
-</div>
+<img src="mi-tienda.svg" width="100%" alt="Mi Tienda Online: the mobile storefront and catalog, and the admin dashboard">
 
 Complete e-commerce platform with product catalog and filtering, persistent cart, checkout, order tracking and an admin panel. Image optimization through Vercel Blob, responsive and SEO-oriented.
 
@@ -212,15 +206,13 @@ Complete e-commerce platform with product catalog and filtering, persistent cart
 
 ### FinancePro — Personal finance management
 
-<img src="financepro-protected-page.png" width="420" align="right" alt="FinancePro">
+<img src="financepro.svg" width="100%" alt="FinancePro dashboard: balance, income and expense cards, then the monthly charts">
 
 Financial management platform for tracking income, expenses and investments, with interactive charts and reporting. Categorized transactions, real-time insights and secure authentication.
 
 `Next.js` `React` `PostgreSQL` `Tailwind CSS` `Vercel`
 
 **[→ Live demo](https://financepro-iota.vercel.app/)**
-
-<br clear="right">
 
 ---
 
