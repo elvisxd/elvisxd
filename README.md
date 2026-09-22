@@ -11,6 +11,8 @@
   <img alt="Senior Full-Stack Engineer · Applied AI — the model explains, deterministic code decides" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=B5802E&background=00000000&center=true&vCenter=true&width=700&height=44&lines=Senior+Full-Stack+Engineer+%C2%B7+Applied+AI;10+years+shipping+systems+that+run+in+production;The+model+explains%2C+deterministic+code+decides;Building+a+self-hosted+AI+agent+with+RAG%2C+tools+and+a+code+sandbox">
 </picture>
 
+<img src="stats-band.svg" width="100%" alt="Ten years of experience, 283k lines of TypeScript, five signal engines, +1.29% edge out-of-sample">
+
 </div>
 
 ## About
@@ -29,58 +31,13 @@ Currently   A self-hosted AI agent with RAG, tools and a code sandbox;
 Location    Orlando, Florida · Open to relocation & remote
 ```
 
+## Experience
+
+<img src="experience.svg" width="100%" alt="Experience: Nesty C.A founder since 2023, Walmart internal applications developer since 2022, freelance full-stack since 2022, own web company 2019–2020, IT Driver software engineer 2017–2019">
+
 ## Stack
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Data**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**AI & Automation**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector_RAG-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath_RPA-FA4616?style=flat-square&logo=uipath&logoColor=white)
-
-**Cloud & Tooling**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+<img src="stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, C#, PHP, Python, Java; React, Next.js, React Native, Expo, Redux, Tailwind; NestJS, .NET, Node.js, Express, GraphQL, Laravel, FastAPI; PostgreSQL, Redis, MySQL, SQL Server, MongoDB, Supabase; LangGraph, Ollama, pgvector, MCP, Gemini API, Claude Code, UiPath; Vercel, Railway, Azure, AWS, Docker, Firebase, Git">
 
 ## Activity
 
@@ -104,15 +61,21 @@ An AI agent I run on my own hardware: an open-source model that writes and execu
 | **0** | paid API calls — the model runs locally through Ollama |
 | **1** | run per conversation, enforced, so runs cannot corrupt shared state |
 
-The agent is a **LangGraph** state graph (`retrieve_context → agent → tools → finalize`) checkpointed in Postgres, so a conversation survives a restart and a paused run resumes from its checkpoint rather than starting over.
+**It stops when it should:** if third-party content touched the conversation and the agent then wants to run code, the run halts for human approval — the exact path an indirect prompt injection takes to execution. The check spans the whole conversation, because scoping it to one run means splitting the attack across two messages evades it.
 
-- **It stops when it should** — retrieved documents and web results enter the prompt tagged as untrusted, and if any third-party content touched the conversation and the agent then wants to execute code, the run **halts for human approval** even when nobody asked. That combination is exactly how an indirect prompt injection reaches execution. The check spans the whole conversation, not the single run, because scoping it to one run means splitting the attack across two messages evades it.
+<details>
+<summary><b>Architecture notes</b> — state graph, sandbox, retrieval, protocols, evals</summary>
+<br>
+
+- **LangGraph state graph** (`retrieve_context → agent → tools → finalize`) checkpointed in Postgres, so a conversation survives a restart and a paused run resumes from its checkpoint rather than starting over.
+- **Untrusted by default** — retrieved documents and web results enter the prompt tagged as untrusted; that tag is what arms the approval halt above.
 - **Code runs in a WASM sandbox** — Pyodide with a fresh interpreter per execution. Each isolation layer was verified against an unhardened Pyodide where the escape actually worked, so the hardening is tested against a vector that was real.
 - **Hybrid retrieval on pgvector** — HNSW vector similarity combined with lexical `tsvector` matching, and the chunks the agent used are stored with the answer, so every claim traces back to a document and a chunk.
 - **Standards, not bespoke protocols** — AG-UI events over SSE with resumable `Last-Event-ID`, plus an **OpenAI-compatible API** (`/v1/chat/completions`) so Open WebUI, Continue.dev or any OpenAI SDK can use it as a backend without writing code. Requests through `/v1` get the full agent with its tools, not just the model.
 - **Evals because a demo is not a system** — an eval suite catches agent regressions, and the model whitelist means a client-supplied model name never reaches Ollama.
+- **Roadmap** — more MCP tool servers, a designed web client, and a deployment with the cost measured rather than assumed.
 
-Roadmap: more MCP tool servers, a designed web client, and a deployment with the cost measured rather than assumed.
+</details>
 
 `Python` `FastAPI` `LangGraph` `Ollama` `PostgreSQL + pgvector` `Pyodide/WASM` `MCP` `SSE / AG-UI` `Docker`
 
@@ -131,13 +94,19 @@ Research and execution system I build and operate on my own. *(Private repositor
 | **34** | strategies built, measured and discarded |
 | **0** | signals shipped without surviving out-of-sample |
 
-It started as a futures engine: 34 strategies, a multi-factor signal core, ~136 backtest scripts, execution against a live exchange. I measured it with permutation tests against reshuffled whole periods, thirds validation and frozen out-of-sample splits — and concluded that **none of the modules beat their benchmark under real execution**. I retired the entire system rather than keep trading it. The engineering that mattered was the measurement, not the strategies.
+**I retired my own futures engine on the evidence:** 34 strategies and ~136 backtest scripts, measured with permutation tests, thirds validation and frozen out-of-sample splits — none beat their benchmark under real execution, so I stopped trading it. The engineering that mattered was the measurement, not the strategies.
 
-- **Retiring my own work on the evidence** — I had already reverted my best-performing signal after auditing it against a 9,478-sample bull regime where its edge went negative. The full retirement was the same discipline applied to everything else.
+<details>
+<summary><b>What ships today, and how the LLM is used</b></summary>
+<br>
+
+- **Retiring on the evidence** — I had already reverted my best-performing signal after auditing it against a 9,478-sample bull regime where its edge went negative. The full retirement was the same discipline applied to everything else.
+- **What ships today** — a multi-year range map that alerts over Telegram when an asset moves between zones of its own range, plus a market panel to inspect it. The alerts state explicitly that they **inform rather than recommend**, because the buy-cheap and scaled-sell criteria were measured too and did not beat their benchmarks either. That finding is kept in the code so nobody retries it thinking it is new.
 - **Production LLM integration** — custom Google Gemini client over REST with timeout control, temperature tuning and token budgeting, designed with **graceful degradation**: when the model fails, the product keeps operating without the AI layer.
 - **Data-driven prompt engineering** — backtest scripts measuring whether *each criterion sent in the prompt* carries real predictive information, then removing the ones that did not. After measuring ~25 technical signals, the core architecture became: the LLM does not predict, it explains numbers already computed in code.
-- **What ships today** — a multi-year range map that alerts over Telegram when an asset moves between zones of its own range, plus a market panel to inspect it. The alerts state explicitly that they **inform rather than recommend**, because the buy-cheap and scaled-sell criteria were measured too and did not beat their benchmarks either. That finding is kept in the code so nobody retries it thinking it is new.
 - **One shared function** — what gets alerted and what gets drawn come from the same code, so they cannot drift apart.
+
+</details>
 
 `TypeScript` `React 19` `Vite` `Express` `Redis` `Docker` `Railway` `Google Gemini API` `Telegram Bot API`
 
@@ -149,12 +118,18 @@ It started as a futures engine: 34 strategies, a multi-factor signal core, ~136 
 
 Measurement system for player prop markets across **eight sports** — CS2, MLB, WNBA, NFL, college football, soccer, tennis and League of Legends. *(Private repository.)*
 
-It captures the sportsbook board automatically, cross-references every line against its own historical database built from ESPN, bo3.gg and Riot APIs, then resolves and scores each pick.
+**It emits zero picks by design:** four hypotheses have been frozen with their kill criteria written down before new data arrived, and **all four were discarded** — including one that had passed five controls and an out-of-sample test at p=0.0073. A system that always has a pick is a system that is not measuring.
 
+<details>
+<summary><b>How it measures</b> — capture, controls, and what happens to failures</summary>
+<br>
+
+- **Capture** — the sportsbook board is captured automatically and every line is cross-referenced against its own historical database built from ESPN, bo3.gg and Riot APIs, then each pick is resolved and scored.
 - **The statistics are the product** — ROI measured by bootstrapping whole matches rather than individual picks; permutation controls that reshuffle sides while holding the Higher/Lower ratio fixed; thirds and halves validation; Bonferroni correction across every market examined.
-- **Hypotheses are frozen with their kill criteria written down *before* new data arrives** — four have been frozen so far and **all four were discarded**, including one that had passed five controls and an out-of-sample test at p=0.0073. Surviving a battery of controls on the sample that chose the hypothesis is not evidence.
-- **It emits zero picks by design** — the only market with evidence is frozen pending confirmation, so the front page shows nothing to play. The restraint is the feature: a system that always has a pick is a system that is not measuring.
+- **Surviving controls is not evidence** — passing a battery of controls on the sample that chose the hypothesis proves nothing; only the frozen out-of-sample window counts, and the only market with evidence is frozen pending confirmation.
 - **Failures are documented, not deleted** — every discarded axis carries why it died, so the next person does not retry it believing it is new.
+
+</details>
 
 `TypeScript` `React 19` `Vite` `Express` `Redis` `Docker` `Railway`
 
@@ -166,9 +141,17 @@ It captures the sportsbook board automatically, cross-references every line agai
 
 Content tool that turns an Amazon affiliate link into a publish-ready Pinterest pin: title, description, board, tags and an image prompt, mapped one to one onto Pinterest's real pin creation form. *(Private repository.)*
 
-- **It deliberately does not auto-publish** — Pinterest's API requires an approved OAuth app, and until that exists the bottleneck is writing the copy, not pasting it. The tool solves the part that actually costs time, and the schema already stores everything that API would ask for, so wiring it later needs no migration.
+**It deliberately does not auto-publish:** Pinterest's API requires an approved OAuth app, and until that exists the bottleneck is writing the copy, not pasting it. The tool solves the part that actually costs time.
+
+<details>
+<summary><b>Notes</b> — schema, research, and a measured finding</summary>
+<br>
+
+- **Ready for the API** — the schema already stores everything Pinterest's pin endpoint would ask for, so wiring it later needs no migration.
 - **Research notes record what does not work** — Pinterest's internal endpoints return 403 and its grid is painted by JavaScript, so the approach that survives is a real browser session.
 - **A measured finding shaped the product** — the winning image pattern is specific to each niche, so a conclusion from one category cannot be transferred to another.
+
+</details>
 
 `TypeScript` `React 19` `Vite` `Express` `PostgreSQL` `Railway`
 
