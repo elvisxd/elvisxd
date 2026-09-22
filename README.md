@@ -93,7 +93,7 @@ Location    Orlando, Florida · Open to relocation & remote
 
 ### Byte — Self-Hosted AI Agent
 
-<img src="byte-cli.png" width="100%" alt="Byte CLI running a sandboxed code execution and a web search">
+<img src="byte-cli.svg" width="100%" alt="Byte CLI: a question answered by running Python in the sandbox, then safe mode pausing a run for approval">
 
 An AI agent I run on my own hardware: an open-source model that writes and executes code, searches the web and answers over my own documents, with **no paid API in the loop**. *(Private repository — happy to walk through the architecture.)*
 
